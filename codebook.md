@@ -1,11 +1,11 @@
-subject"                                                  
-activities"                                              
-"TimeBodyAccelerometerMeanX"                               
-"TimeBodyAccelerometerMeanY"                              
-"TimeBodyAccelerometerMeanZ"                             
-"TimeBodyAccelerometerStandardDiviationX"                 
-"TimeBodyAccelerometerStandardDiviationY"                  
-"TimeBodyAccelerometerStandardDiviationZ"                 
+"subject":subject number                                                  
+"activities":1 WALKING;2 WALKING_UPSTAIRS;3 WALKING_DOWNSTAIRS;4 SITTING;5 STANDING;6 LAYING                                            
+"TimeBodyAccelerometerMeanX":mean value of body acceleration in x axis                                
+"TimeBodyAccelerometerMeanY":mean value of body acceleration in y axis                       
+"TimeBodyAccelerometerMeanZ":mean value of body acceleration in z axis                       
+"TimeBodyAccelerometerStandardDiviationX":standard diviation of body acceleration in x axis       
+"TimeBodyAccelerometerStandardDiviationY":standard diviation of body acceleration in y axis                 
+"TimeBodyAccelerometerStandardDiviationZ":standard diviation of body acceleration in z axis                
 "TimeGravityAccelerometerMeanX"                            
 "TimeGravityAccelerometerMeanY"                           
 "TimeGravityAccelerometerMeanZ"                          
