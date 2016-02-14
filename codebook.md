@@ -46,43 +46,43 @@
 "FrequencyBodyAccelerometerStandardDiviationX":standard diviation of frequency of body acceleration in x axis            
 "FrequencyBodyAccelerometerStandardDiviationY":standard diviation of frequency of body acceleration in y axis            
 "FrequencyBodyAccelerometerStandardDiviationZ":standard diviation of frequency of body acceleration in z axis           
-"FrequencyBodyAccelerometerMeanFreqX":mean frequency of body acceleration in x axis                      
-"FrequencyBodyAccelerometerMeanFreqY":mean frequency of body acceleration in y axis                    
-"FrequencyBodyAccelerometerMeanFreqZ":mean frequency of body acceleration in z axis                      
-"FrequencyBodyAccelerometerJerkMeanX":mean value of body jerk acceleration in x axis                    
-"FrequencyBodyAccelerometerJerkMeanY":mean value of body jerk acceleration in y axis                       
-"FrequencyBodyAccelerometerJerkMeanZ":mean value of body jerk acceleration in z axis                     
-"FrequencyBodyAccelerometerJerkStandardDiviationX":standard diviation of body jerk acceleration in x axis         
-"FrequencyBodyAccelerometerJerkStandardDiviationY":standard diviation of body jerk acceleration in y axis        
-"FrequencyBodyAccelerometerJerkStandardDiviationZ":standard diviation of body jerk acceleration in z axis        
-"FrequencyBodyAccelerometerJerkMeanFreqX":mean frequency of body jerk acceleration in x axis                 
-"FrequencyBodyAccelerometerJerkMeanFreqY":mean frequency of body jerk acceleration in y axis                  
-"FrequencyBodyAccelerometerJerkMeanFreqZ":mean frequency of body jerk acceleration in z axis                
-"FrequencyBodyGyroscopeMeanX"mean value of body gyroscope in x axis                              
-"FrequencyBodyGyroscopeMeanY"                             
-"FrequencyBodyGyroscopeMeanZ"                              
-"FrequencyBodyGyroscopeStandardDiviationX"                
-"FrequencyBodyGyroscopeStandardDiviationY"                 
-"FrequencyBodyGyroscopeStandardDiviationZ"                
-"FrequencyBodyGyroscopeMeanFreqX"                          
-"FrequencyBodyGyroscopeMeanFreqY"                         
-"FrequencyBodyGyroscopeMeanFreqZ"                          
-"FrequencyBodyAccelerometerMagnitudeMean"                 
-"FrequencyBodyAccelerometerMagnitudeStandardDiviation"     
-"FrequencyBodyAccelerometerMagnitudeMeanFreq"             
-"FrequencyBodyAccelerometerJerkMagnitudeMean"              
-"FrequencyBodyAccelerometerJerkMagnitudeStandardDiviation"
-"FrequencyBodyAccelerometerJerkMagnitudeMeanFreq"          
-"FrequencyBodyGyroscopeMagnitudeMean"                     
-"FrequencyBodyGyroscopeMagnitudeStandardDiviation"         
-"FrequencyBodyGyroscopeMagnitudeMeanFreq"                 
-"FrequencyBodyGyroscopeJerkMagnitudeMean"                  
-"FrequencyBodyGyroscopeJerkMagnitudeStandardDiviation"    
-"FrequencyBodyGyroscopeJerkMagnitudeMeanFreq"              
-"AngleTimeBodyAccelerometerMeanGravity"                   
-"AngleTimeBodyAccelerometerJerkMeanGravityMean"            
-"AngleTimeBodyGyroscopeMeanGravityMean"                   
-"AngleTimeBodyGyroscopeJerkMeanGravityMean"                
-"AngleXGravityMean"                                       
-"AngleYGravityMean"                                        
-"AngleZGravityMean" 
+"FrequencyBodyAccelerometerMeanFreqX":mean weighted frequency of body acceleration in x axis                      
+"FrequencyBodyAccelerometerMeanFreqY":mean weighted frequency of body acceleration in y axis                    
+"FrequencyBodyAccelerometerMeanFreqZ":mean weighted frequency of body acceleration in z axis                      
+"FrequencyBodyAccelerometerJerkMeanX":mean value of body jerk acceleration frequency in x axis                    
+"FrequencyBodyAccelerometerJerkMeanY":mean value of body jerk acceleration frequency in y axis                       
+"FrequencyBodyAccelerometerJerkMeanZ":mean value of body jerk acceleration frequency in z axis                     
+"FrequencyBodyAccelerometerJerkStandardDiviationX":standard diviation of body jerk acceleration frequency in x axis         
+"FrequencyBodyAccelerometerJerkStandardDiviationY":standard diviation of body jerk acceleration frequency in y axis        
+"FrequencyBodyAccelerometerJerkStandardDiviationZ":standard diviation of body jerk acceleration frequency in z axis        
+"FrequencyBodyAccelerometerJerkMeanFreqX":mean weighted frequency of body jerk acceleration in x axis                 
+"FrequencyBodyAccelerometerJerkMeanFreqY":mean weighted frequency of body jerk acceleration in y axis                  
+"FrequencyBodyAccelerometerJerkMeanFreqZ":mean weighted frequency of body jerk acceleration in z axis                
+"FrequencyBodyGyroscopeMeanX":mean value of body gyroscope frequency in x axis                              
+"FrequencyBodyGyroscopeMeanY":mean value of body gyroscope frequency in y axis                             
+"FrequencyBodyGyroscopeMeanZ":mean value of body gyroscope frequency in z axis                              
+"FrequencyBodyGyroscopeStandardDiviationX":standard diviation of body gyroscope frequency in x axis                
+"FrequencyBodyGyroscopeStandardDiviationY":standard diviation of body gyroscope frequency in y axis                 
+"FrequencyBodyGyroscopeStandardDiviationZ":standard diviation of body gyroscope frequency in z axis                
+"FrequencyBodyGyroscopeMeanFreqX":mean weighted frequency of body gyroscope in x axis                          
+"FrequencyBodyGyroscopeMeanFreqY":mean weighted frequency of body gyroscope in y axis                        
+"FrequencyBodyGyroscopeMeanFreqZ":mean weighted frequency of body gyroscope in z axis                        
+"FrequencyBodyAccelerometerMagnitudeMean":mean value of body acceleration frequency magnitude                 
+"FrequencyBodyAccelerometerMagnitudeStandardDiviation":standard diviation of body acceleration frequency magnitude    
+"FrequencyBodyAccelerometerMagnitudeMeanFreq":mean weighted frequency of body acceleration magnitude          
+"FrequencyBodyAccelerometerJerkMagnitudeMean":mean value of body jerk acceleration frequency           
+"FrequencyBodyAccelerometerJerkMagnitudeStandardDiviation":standard diviation of body jerk acceleration magnitude frequency
+"FrequencyBodyAccelerometerJerkMagnitudeMeanFreq":mean weighted frequency of body jerk acceleraqtion           
+"FrequencyBodyGyroscopeMagnitudeMean":mean value of body gyroscope magnitude frequency                     
+"FrequencyBodyGyroscopeMagnitudeStandardDiviation":standard diviation of body gyroscope magnitude frequency         
+"FrequencyBodyGyroscopeMagnitudeMeanFreq":mean weighted frequency of body gyroscope magnitude                 
+"FrequencyBodyGyroscopeJerkMagnitudeMean":mean value of body jerk gyroscope magnitude                   
+"FrequencyBodyGyroscopeJerkMagnitudeStandardDiviation":standard diviation of body jerk gyroscope magnitude frequency    
+"FrequencyBodyGyroscopeJerkMagnitudeMeanFreq":mean weighted frequency of body jerk gyroscope magnitude frequency              
+"AngleTimeBodyAccelerometerMeanGravity":mean weighted gravity of body acceleration                    
+"AngleTimeBodyAccelerometerJerkMeanGravityMean":mean value of gravity of body acceleration            
+"AngleTimeBodyGyroscopeMeanGravityMean":mean value of body angle gyroscope                   
+"AngleTimeBodyGyroscopeJerkMeanGravityMean":mean value of body jerk angle gyroscope                
+"AngleXGravityMean":mean value of angle gravity in x axis                                       
+"AngleYGravityMean":mean value of angle gravity in y axis                                        
+"AngleZGravityMean":mean value of angle gravity in z axis 
